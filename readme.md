@@ -1,8 +1,6 @@
 <div align="center">
-<!-- <img alt="Profiles Pictures" src="" width="200" height="200"/> -->
-
+<img alt="Profiles Pictures" src="https://raw.githubusercontent.com/kerogs/kerogs/refs/heads/main/.ksinf/profile/profile_use.png" width="200" height="200"/>
 <h3> Kerogs' CS2 configuration 🛠️</h3>
-
 </div>
 
 # kerogs.cfg - CS2 Configuration
