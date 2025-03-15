@@ -1,3 +1,10 @@
+<div align="center">
+<!-- <img alt="Profiles Pictures" src="" width="200" height="200"/> -->
+
+<h3> Kerogs' CS2 configuration 🛠️</h3>
+
+</div>
+
 # kerogs.cfg - CS2 Configuration
 
 This is my custom configuration for **CS2**
